@@ -17,3 +17,9 @@
     * Allowed Callback URLs: https://higebobo.github.io,https://higebobo.github.io/auth0-simple-login
     * Allowed Logout URLs: https://higebobo.github.io,https://higebobo.github.io/auth0-simple-login
     * Allowed Web Origins: https://higebobo.github.io
+
+## Github pages
+
+auth0のGoogleアカウントで確認済み(2020/09/07)
+
+https://higebobo.github.io/auth0-simple-login/
