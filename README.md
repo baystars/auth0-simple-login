@@ -21,3 +21,9 @@
 
 * [Auth0 \+ GitHub Pagesでミニマムなログインサンプルを作る](https://protoout.studio/posts/auth0-github-pages)
 * [GitHub](https://github.com/)
+
+## Github pages
+
+auth0のGoogleアカウントで確認済み(2020/09/07)
+
+https://higebobo.github.io/auth0-simple-login/
